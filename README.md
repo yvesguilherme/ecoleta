@@ -1,42 +1,48 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+<h1 align="center">
+    <img alt="ecoleta" title="#ecoleta" src="frontend-ecoleta/src/assets/logo.svg"  />
+</h1>
 
-These are common Git commands used in various situations:
+<h4 align="center">
+  🚀 Projeto desenvolvido durante o evento: Next Level Week (NLW)
+</h4>
 
-start a working area (see also: git help tutorial)
-   clone      Clone a repository into a new directory
-   init       Create an empty Git repository or reinitialize an existing one
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-work on the current change (see also: git help everyday)
-   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
-   reset      Reset current HEAD to the specified state
-   rm         Remove files from the working tree and from the index
+<br>
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
-   grep       Print lines matching a pattern
-   log        Show commit logs
-   show       Show various types of objects
-   status     Show the working tree status
+## :rocket: Tecnologias
 
-grow, mark and tweak your common history
-   branch     List, create, or delete branches
-   checkout   Switch branches or restore working tree files
-   commit     Record changes to the repository
-   diff       Show changes between commits, commit and working tree, etc
-   merge      Join two or more development histories together
-   rebase     Reapply commits on top of another base tip
-   tag        Create, list, delete or verify a tag object signed with GPG
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-collaborate (see also: git help workflows)
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
+## 💻 Projeto
+
+O Ecoletauma é uma aplicação direcionada para entidades(empresas) responsáveis por reciclar lixo, elas poderem criar e compartilhar seus pontos de coleta, além de especificar quais os itens de coleta um determinado ponto é responsável por efetuar a coleta.
+
+## :wastebasket: Itens de coleta
+
+Os itens de coleta pré-cadastrados são:
+
+- Lâmpadas
+- Pilhas e baterias
+- Papeis e papelão
+- Resíduos eletrônicos
+- Resíduos orgânicos
+- Óleo de cozinhas
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.google.com). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+
+---
+
+<p align="center">Desenvolvido por Yves Guilherme :pencil:</p>
