@@ -9,6 +9,10 @@ class ItemsController {
       return {
         id: item.id,
         title: item.title,
+        /**
+         * Para funcionar localmente, deve ser trocado
+         * este endereço pelo IP da máquina fornecido pelo expo.
+         */
         image_url: `http://localhost:3333/uploads/${item.image}`
       };
     });
