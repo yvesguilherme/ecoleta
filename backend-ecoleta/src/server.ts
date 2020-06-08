@@ -3,6 +3,9 @@ import cors from 'cors';
 import path from 'path';
 import routes from './routes';
 
+/** Bibliotecas externas. */
+import { errors } from 'celebrate';
+
 const app = express();
 
 app.use(cors());
@@ -14,6 +17,8 @@ app.use(routes);
  * Ex: .PDF, .SVG, .DOC, etc.
  */
 app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')));
+
+app.use(errors());
 
 app.listen(3333);
 

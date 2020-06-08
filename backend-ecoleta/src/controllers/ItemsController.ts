@@ -13,7 +13,7 @@ class ItemsController {
          * Para funcionar localmente, deve ser trocado
          * este endereço pelo IP da máquina fornecido pelo expo.
          */
-        image_url: `http://localhost:3333/uploads/${item.image}`
+        image_url: `http://192.168.0.12:3333/uploads/${item.image}`
       };
     });
 
