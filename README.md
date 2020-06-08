@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-   <img alt="ecoleta-web" title="#ecoletaWeb" src="frontend-ecoleta/git-files/ecoleta-web.png"  />
+   <img alt="ecoleta-web" title="#ecoletaWeb" src="frontend-ecoleta/git-files/ecoleta.png"  />
 </p>
 
 ## :rocket: Tecnologias
