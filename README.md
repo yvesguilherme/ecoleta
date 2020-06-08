@@ -3,13 +3,13 @@
 </h1>
 
 <h4 align="center">
-  🚀 Projeto desenvolvido durante o evento Next Level Week (NLW) promovido pelo Rocketseat
+  🚀 Projeto desenvolvido durante o evento Next Level Week (NLW) promovido pela Rocketseat
 </h4>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
