@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 Projeto desenvolvido durante o evento: Next Level Week (NLW)
+  🚀 Projeto desenvolvido durante o evento Next Level Week (NLW) promovido pelo Rocketseat
 </h4>
 
 <p align="center">
@@ -27,21 +27,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- Diversas bibliotecas externas open source.
 
 ## 💻 Projeto
 
-O Ecoletauma é uma aplicação direcionada para entidades(empresas) responsáveis por reciclar lixo, elas poderem criar e compartilhar seus pontos de coleta, além de especificar quais os itens de coleta um determinado ponto é responsável por efetuar a coleta.
+O Ecoleta é uma aplicação direcionada para entidades(empresas) responsáveis por reciclar lixo, elas poderem criar e compartilhar seus pontos de coleta, além de especificar quais os itens um determinado ponto é responsável por efetuar a coleta.
 
 ## :wastebasket: Itens de coleta
 
-Os itens de coleta pré-cadastrados são:
+Os itens de coleta pré-cadastrados na aplicação são:
 
 - Lâmpadas
 - Pilhas e baterias
-- Papeis e papelão
+- Papéis e papelão
 - Resíduos eletrônicos
 - Resíduos orgânicos
-- Óleo de cozinhas
+- Óleos de cozinha
 
 ## 🔖 Layout
 
