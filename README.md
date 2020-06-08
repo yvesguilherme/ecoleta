@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-   <img alt="ecoleta-web" title="#ecoletaWeb" src="frontend-ecoleta/git-files/ecoleta-web.PNG"  />
+   <img alt="ecoleta-web" title="#ecoletaWeb" src="frontend-ecoleta/git-files/ecoleta-web.png"  />
 </p>
 
 ## :rocket: Tecnologias
@@ -45,8 +45,8 @@ Os itens de coleta pré-cadastrados são:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.google.com). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout de todo o projeto no através [desse link](https://www.figma.com/file/urLinMAgmq75DuIiVRX6Sh/Ecoleta-(Booster)?node-id=30%3A0). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ---
 
-<p align="center">Desenvolvido por Yves Guilherme :pencil:</p>
+<p align="center">Desenvolvido por Yves Guilherme :rocket:</p>
